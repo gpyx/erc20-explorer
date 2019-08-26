@@ -15,3 +15,14 @@ body {
 a {
   color: #00B7FF;
 }
+
+.navbar-inverse {
+  background-color: #edc24f;
+  border-color: transparent;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: #edc24f;
+}
+#container {
+  margin-top: 15px;
+}
